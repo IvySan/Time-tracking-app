@@ -1,0 +1,16 @@
+.error{
+    color: red;
+}
+
+.logIn{
+    
+    width: 34rem;
+    position: relative;
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: rgb(159, 158, 158);
+    margin: 15px 5px;
+    padding: 15px 10px 15px 50px;
+    margin-left: 23rem;
+    
+}

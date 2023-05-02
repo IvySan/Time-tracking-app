@@ -1,0 +1,34 @@
+.error{
+    color: red;
+}
+
+.error-message{
+    background-color: rgb(250, 216, 221);
+    color: red;
+    border: 1px solid;
+    margin: 15px 5px;
+    padding: 15px 10px 15px 50px;
+    background-position: center;
+    font-weight: bold;
+}
+
+.notRegistered{
+    color: red;
+    border: 1px solid;
+    margin: 15px 5px;
+    padding: 15px 10px 15px 50px;
+    background-position: center;
+}
+
+.signUp{
+    
+    width: 34rem;
+    position: relative;
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: rgb(159, 158, 158);
+    margin: 15px 5px;
+    padding: 15px 10px 15px 50px;
+    margin-left: 23rem;
+    
+}
